@@ -1,0 +1,20 @@
+*{
+    background: papayawhip;
+}
+div {
+    background: pink;
+}
+.title{
+    color:blueviolet;
+
+}
+#title{
+    color:brown;
+}
+a[href = "https://platzi.com/home"]{
+    color: blue;
+
+}
+a[href = "https://htmlcolorcodes.com/es/"]{
+    color: blue;
+}

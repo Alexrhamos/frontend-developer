@@ -1,0 +1,6 @@
+div p{
+    color: lime;
+}
+div > div{
+    background: plum;
+}
