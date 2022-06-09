@@ -1,0 +1,10 @@
+div  {
+    background: skyblue;;
+    justify-content: center;
+}
+
+@media  (min-width: 300px )  {
+    div  {
+        background: grey;
+    }
+}
